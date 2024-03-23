@@ -1,1 +1,41 @@
+.main{
+    display: flex;
+    flex-flow: wrap;
+    justify-content: space-between;
+  
+}
+
+.arte{
+    height: 1000px;
+    width: 900px;
+    object-fit: cover
+}
+
+.texto{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 70px;
+    margin-right: 90px;
+    font-size: 20px;
+
+}
+
+.titulo{
+    font-size: 75px;
+    display: flex;
+    justify-content: center;
+}
+
+.tabela, th, td{
+    border-collapse: collapse; 
+    padding: 10px;
+    text-align: center;
+    width: 800px;
+    margin-top: 20px;
+}
+th{
+    background-color: rgb(173, 173, 173);
+}
 
