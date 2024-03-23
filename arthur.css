@@ -32,8 +32,10 @@
     border-collapse: collapse; 
     padding: 10px;
     text-align: center;
-    width: 800px;
+    width: 1000px;
+    margin: auto;
     margin-top: 20px;
+
 }
 th{
     background-color: rgb(173, 173, 173);
