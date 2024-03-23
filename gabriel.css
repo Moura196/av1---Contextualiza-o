@@ -1,1 +1,18 @@
+main {
+    margin: 75px 100px 75px;
+}
 
+input {
+    width: auto;
+    padding: 10px 18px;
+    margin: 8px 0;
+    border-radius: 8px;
+    box-sizing: border-box;
+  }
+
+footer {
+    display: flex;
+    justify-content: space-between;
+
+    margin-bottom: 55px;
+}
