@@ -10,3 +10,9 @@ input {
     box-sizing: border-box;
   }
 
+footer {
+    display: flex;
+    justify-content: space-between;
+
+    margin-bottom: 55px;
+}
